@@ -1,0 +1,1 @@
+A project relating to the Odin Project full-stack development course
