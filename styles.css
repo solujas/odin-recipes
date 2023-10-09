@@ -1,0 +1,29 @@
+.fonted {
+    font-family: 'Amiko';
+}
+
+.headers {
+    font-size: 24px; font-family: 'Amiko'; text-align: center; font-weight: 900;
+    transition: transform 0.2s ease; font-size 0.2s ease;
+}
+
+.headers:hover {
+    color: blueviolet;
+    transform: scale(1.1) rotate(-1deg);
+}
+
+.hyperlink {
+    flex; justify-content: center; align-items: center; flex-direction: row; font-size: 16px; padding: 10px; 
+    transition: transform 0.2s ease, font-size 0.3s ease;
+}
+
+.hyperlink:hover {
+    transform: scale(1.1) rotate(10deg);
+}
+
+#linksflex {
+    display: flex;
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
